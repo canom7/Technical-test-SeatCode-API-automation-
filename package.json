@@ -1,0 +1,21 @@
+{
+  "name": "ejercicio2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "*",
+    "mocha": "*"
+  },
+  "dependencies": {
+    "axios": "^1.2.1",
+    "chai-http": "*",
+    "node-fetch": "^3.3.0",
+    "parcel": "^2.8.2"
+  }
+}
