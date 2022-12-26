@@ -12,4 +12,4 @@
 * Execute `npm install` in project root to install the project dependencies
 
 ## Run tests:
-* `npm test` in project root to start execute the tests
+* `npm test` in project root to execute the tests
